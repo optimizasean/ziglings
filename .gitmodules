@@ -10,3 +10,27 @@
 [submodule "zig/ziglings"]
 	path = zig/ziglings
 	url = git@github.com:optimizasean/ziglings.git
+[submodule "unity/UnityFinal"]
+	path = unity/UnityFinal
+	url = git@github.com:optimizasean/UnityFinal.git
+[submodule "unity/UnityInteractiveDevicesItems"]
+	path = unity/UnityInteractiveDevicesItems
+	url = git@github.com:optimizasean/UnityInteractiveDevicesItems.git
+[submodule "unity/UnityThirdPerson"]
+	path = unity/UnityThirdPerson
+	url = git@github.com:optimizasean/UnityThirdPerson.git
+[submodule "unity/UnityGUI"]
+	path = unity/UnityGUI
+	url = git@github.com:optimizasean/UnityGUI.git
+[submodule "unity/UnityPlatformer"]
+	path = unity/UnityPlatformer
+	url = git@github.com:optimizasean/UnityPlatformer.git
+[submodule "unity/UnityWar"]
+	path = unity/UnityWar
+	url = git@github.com:optimizasean/UnityWar.git
+[submodule "unity/UnityCards"]
+	path = unity/UnityCards
+	url = git@github.com:optimizasean/UnityCards.git
+[submodule "unity/UnityFPS"]
+	path = unity/UnityFPS
+	url = git@github.com:optimizasean/UnityFPS.git
