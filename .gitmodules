@@ -7,3 +7,6 @@
 [submodule "ruby/Depot"]
 	path = ruby/Depot
 	url = git@github.com:optimizasean/Depot.git
+[submodule "zig/ziglings"]
+	path = zig/ziglings
+	url = git@github.com:optimizasean/ziglings.git
