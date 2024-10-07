@@ -34,3 +34,12 @@
 [submodule "unity/UnityFPS"]
 	path = unity/UnityFPS
 	url = git@github.com:optimizasean/UnityFPS.git
+[submodule "ruby/toy_app"]
+	path = ruby/toy_app
+	url = git@github.com:optimizasean/toy_app.git
+[submodule "ruby/hello_app"]
+	path = ruby/hello_app
+	url = git@github.com:optimizasean/hello_app.git
+[submodule "ruby/sample_app"]
+	path = ruby/sample_app
+	url = git@github.com:optimizasean/sample_app.git
